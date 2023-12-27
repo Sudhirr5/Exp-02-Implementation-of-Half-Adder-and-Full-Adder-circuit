@@ -1,6 +1,6 @@
 # Implementation of Half Adder and Full Adder circuit..
 
-### Developed By:
+### Developed By: R. SUDHIR KUMAR
 ### Register No: 212223230221
 
 
@@ -49,8 +49,6 @@ Program to design a half adder and full adder circuit and verify its truth table
 # Full Adder Circuit:-
 
 ![image](https://github.com/Shilo-05/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/139841664/26cc1c46-2eea-4984-860c-1112a233aa11)
-
-
 */
 ### Truthtable:-
    Half Adder Circuit:
