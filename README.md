@@ -49,8 +49,11 @@ Program to design a half adder and full adder circuit and verify its truth table
 # Full Adder Circuit:-
 
 ![image](https://github.com/Shilo-05/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/139841664/26cc1c46-2eea-4984-860c-1112a233aa11)
+
 */
+
 ### Truthtable:-
+/*
    Half Adder Circuit:
 
    ![image](https://github.com/Shilo-05/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/139841664/e10af706-82c8-4d25-a306-a0a07c6cabe9)
@@ -69,7 +72,7 @@ Program to design a half adder and full adder circuit and verify its truth table
    
    ![image](https://github.com/Shilo-05/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/139841664/bd185f3b-fe74-4da2-94d7-7e06a89c399c)
 
-### Output Waveform $ Timing Diagram:-
+### Output Waveform & Timing Diagram:-
    Half Adder Circuit:-
    
    ![image](https://github.com/Shilo-05/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/139841664/4f7ba4b5-4cb6-47fc-872d-b94402b9dcaa)
